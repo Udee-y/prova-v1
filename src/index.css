@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.scrolled{
+    @apply bg-white;
+   background-color:white;
+   @apply shadow-2xl;
+
+}
